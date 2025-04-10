@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Restaurant Management System**
  
- 🌱 I’m currently learning **Pyhton, AWS, R**
+ 🌱 I’m currently learning **Python, AWS, R**
 
 💬 Ask me about **Flutter, React, Laravel, Spring Boot, Odoo... or anything [here](https://www.wolle-jr.com/)**
 
