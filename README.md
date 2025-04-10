@@ -15,6 +15,38 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Arnaud+Junior+WOLLE..;Full+Stack+Developer;Tech+Enthusiast..;Laravel+Flutter..;Tech+Preneur+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
+    
+
+<br/>
+
+<h3 align="center">A passionate software developer from Côte d'Ivoire </h3>
+
+<div align="center">
+
+<br/>
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Flutter, React, Laravel, Spring Boot... or anything [here](https://www.wolle-jr.com/)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:arnaudjuniorwolle003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnaud-junior-wolle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.wolle-jr.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
     
 
     
