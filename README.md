@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Arnaud+Junior+WOLLE..;Full+Stack+Developer;Tech+Enthusiast..;Laravel+Flutter..;Tech+Preneur+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
-    
-
 <br/>
 
 <h3 align="center">A passionate software developer from Côte d'Ivoire </h3>
@@ -26,11 +24,11 @@ Here are some ideas to get you started:
 
 <br/>
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Restaurant Management System**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Pyhton, AWS, R**
 
-💬 Ask me about **Flutter, React, Laravel, Spring Boot... or anything [here](https://www.wolle-jr.com/)**
+💬 Ask me about **Flutter, React, Laravel, Spring Boot, Odoo... or anything [here](https://www.wolle-jr.com/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
