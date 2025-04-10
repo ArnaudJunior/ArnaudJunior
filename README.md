@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about **Flutter, React, Laravel, Spring Boot, Odoo... or anything [here](https://www.wolle-jr.com/)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Remember the terrifying screeches of the Nazgûl? Those bone-chilling sounds were actually made by scraping a plastic salad bowl with a fork.
+Turns out, even the forces of darkness can be summoned... from your kitchen**
 
  </div>
  
