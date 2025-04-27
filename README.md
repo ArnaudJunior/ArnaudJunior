@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h3 align="center">A passionate software developer from Côte d'Ivoire </h3>
+<h3 align="center">A passionate software engineer from Côte d'Ivoire </h3>
 
 <div align="center">
 
