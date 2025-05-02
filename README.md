@@ -181,4 +181,4 @@ Turns out, even the forces of darkness can be summoned... from your kitchen**
 Spring Boot   11 hrs 37 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2022/06/14](https://visitor-badge-deno.deno.dev/ArnaudJunior.ArnaudJunior.svg)
+![views since 2022/12/27](https://visitor-badge-deno.deno.dev/ArnaudJunior.ArnaudJunior.svg)
