@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
  
- 🔭 I’m currently working on **Restaurant Management System**
+ 🔭 I’m currently working on **Everything about fullstack development**
  
  🌱 I’m currently learning **Python, AWS, R**
 
