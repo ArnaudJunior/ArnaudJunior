@@ -177,6 +177,13 @@ Turns out, even the forces of darkness can be summoned... from your kitchen**
 ![](https://github-profile-trophy.vercel.app/?username=ArnaudJunior&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
+### ✍️ Random Dev Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repository
+![](https://github-contributor-stats.vercel.app/api?username=ArnaudJunior&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 ```text
 Spring Boot   11 hrs 37 mins    █████████████████████████   100.00 %
 ```
